@@ -1,0 +1,10 @@
+1. Face capture from videos online of djt
+	eigenfaces
+	scrape the faces and crop
+
+2. Lip capture/ bottom face capture
+	
+3. Audio -> mouth capture RNN
+4. mouth synthesis
+5. target video synthesis
+
